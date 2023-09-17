@@ -1,0 +1,3 @@
+s=input("Строка:")
+p=s.count(' ')
+print(p if p!=0 else 'пробелы не обнаружены')
